@@ -31,6 +31,6 @@ python render.py -m output/exp-name --mode render --configpath path/to/NeRF-DS/c
 
 ## Acknowledgments
 
-We thank [3DGS](https://github.com/graphdeco-inria/gaussian-splatting)、[Deformable 3DGS](https://github.com/ingra14m/Deformable-3D-Gaussians)、[GauFre](https://github.com/brownvc/GauFRe) for source code reference.
+We thank [3DGS](https://github.com/graphdeco-inria/gaussian-splatting)、[Deformable 3DGS](https://github.com/ingra14m/Deformable-3D-Gaussians)、[GauFre](https://github.com/brownvc/GauFRe)、[Depth Anything V2](https://github.com/DepthAnything/Depth-Anything-V2), and [Track Anything](https://github.com/gaomingqi/Track-Anything) for source code reference.
 
 ## BibTex
