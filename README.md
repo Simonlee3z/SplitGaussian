@@ -18,11 +18,16 @@ We follow the data organization of ["GauFRe: Gaussian Deformation Fields for Rea
 ## Train
 
 **NeRF-DS:**
+
+```shell
 python train.py -s path/to/your/NeRF-DS/dataset -m output/exp-name --eval --configpath path/to/NeRF-DS/config
+```
 
 ## Render
 
+```shell
 python render.py -m output/exp-name --mode render --configpath path/to/NeRF-DS/config
+```
 
 ## Acknowledgments
 

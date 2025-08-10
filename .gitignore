@@ -1,0 +1,20 @@
+*.pyc
+.vscode
+output
+build
+diff_rasterization/diff_rast.egg-info
+diff_rasterization/dist
+tensorboard_3d
+screenshots
+.idea
+datasets
+__pycache__/
+
+# submodules/diff_rasterization/
+submodules/simple-knn/build/
+submodules/simple-knn/simple_knn.egg-info
+submodules/diff-gaussian-rasterization/build
+submodules/diff-gaussian-rasterization/diff_gaussian_rasterization.egg-info
+
+submodules/Depth-Anything-V2/checkpoints
+submodules/Track-Anything/checkpoints

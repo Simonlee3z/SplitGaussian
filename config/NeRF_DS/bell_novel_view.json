@@ -1,0 +1,8 @@
+{
+    "shs_model": true,
+    "static_densify_grad_threshold": 0.0007,
+    "densify_grad_threshold":0.0002,
+    "merge_densify_until_iter": 33500,
+    "prune_opacity": 0.5,
+    "deform_lr_max_steps": 60000
+}
