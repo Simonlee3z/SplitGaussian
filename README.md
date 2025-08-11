@@ -10,7 +10,7 @@
     Gang Huang<sup>1</sup>,
     Zhangye Wang<sup>1</sup>,
     Yantao Pan<sup>3</sup>,
-    <a href="https://scholar.google.com/citations?user=PKFAv-cAAAAJ&hl=en">Lechao Cheng</a><sup>2,3✉</sup>,c
+    <a href="https://scholar.google.com/citations?user=PKFAv-cAAAAJ&hl=en">Lechao Cheng</a><sup>2,3✉</sup>
   </span>
     <br>
   <span>
