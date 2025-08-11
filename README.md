@@ -1,6 +1,35 @@
-# SplitGaussian: Reconstructing Dynamic Scenes via Visual Geometry Decomposition
+<p align="center">
+  
+  <h2 align="center"><strong>SplitGaussian: Reconstructing Dynamic Scenes via Visual Geometry Decomposition</strong></h2>
 
-## [Project page](https://simonlee3z.github.io/SplitGaussian-Page/)
+  <p align="center">
+  <span>
+    Jiahui Li<sup>1</sup>,
+    Shengeng Tang<sup>1</sup>,
+    Jingxuan He<sup>2</sup>,
+    Gang Huang<sup>1</sup>,
+    Zhangye Wang<sup>1</sup>,
+    Yantao Pan<sup>3</sup>,
+    <a href="https://scholar.google.com/citations?user=PKFAv-cAAAAJ&hl=en">Lechao Cheng</a><sup>2,3✉</sup>,c
+  </span>
+    <br>
+  <span>
+    <!-- <sup>*</sup>Equal contribution. -->
+    <sup>✉</sup>Corresponding author.
+    <br>
+    <sup>1</sup>Zhejiang University,
+    <sup>2</sup>Hefei University of Technology,
+    <sup>3</sup>KAIYANG Laboratory, Chery
+  </span>
+</p>
+
+<div align="center">
+
+<!-- <a href='https://arxiv.org/abs/2404.08966'><img src='https://img.shields.io/badge/arXiv-2404.08966-b31b1b.svg'></a> -->
+
+<a href='https://simonlee3z.github.io/SplitGaussian-Page/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
+
+</div>
 
 ## Getting Started
 
