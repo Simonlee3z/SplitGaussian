@@ -25,8 +25,7 @@
 
 <div align="center">
 
-<!-- <a href='https://arxiv.org/abs/2404.08966'><img src='https://img.shields.io/badge/arXiv-2404.08966-b31b1b.svg'></a> -->
-
+<a href='https://www.arxiv.org/abs/2508.04224'><img src='https://img.shields.io/badge/arXiv-2404.08966-b31b1b.svg'></a>
 <a href='https://simonlee3z.github.io/SplitGaussian-Page/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 
 </div>
