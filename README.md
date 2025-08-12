@@ -63,3 +63,12 @@ python render.py -m output/exp-name --mode render --configpath path/to/NeRF-DS/c
 We thank [3DGS](https://github.com/graphdeco-inria/gaussian-splatting)、[Deformable 3DGS](https://github.com/ingra14m/Deformable-3D-Gaussians)、[GauFre](https://github.com/brownvc/GauFRe)、[Depth Anything V2](https://github.com/DepthAnything/Depth-Anything-V2), and [Track Anything](https://github.com/gaomingqi/Track-Anything) for source code reference.
 
 ## BibTex
+
+```
+@article{li2025splitgaussian,
+  title={SplitGaussian: Reconstructing Dynamic Scenes via Visual Geometry Decomposition},
+  author={Li, Jiahui and Tang, Shengeng and He, Jingxuan and Huang, Gang and Wang, Zhangye and Pan, Yantao and Cheng, Lechao},
+  journal={arXiv preprint arXiv:2508.04224},
+  year={2025}
+}
+```
